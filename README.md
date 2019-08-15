@@ -1,9 +1,7 @@
 # MazeGame-on-2D-3D
 大学1年時の5月頃に作成した迷路ゲームです.
 
-![sample1](data/sample.png)
-
-![sample2](data/sample1.png)
+<img src="data/sample.png" width="430">  <img src="data/sample1.png" width="430">
 
 ### どんなゲーム？
 - 2Dの視点と3Dの視点を上手く切り替えて迷路をクリアするゲームです。
